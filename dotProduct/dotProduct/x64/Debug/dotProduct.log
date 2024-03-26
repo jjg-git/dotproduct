@@ -1,3 +1,9 @@
-﻿  Performing Custom Build Tools
+﻿  dotProduct.c
   main.c
-  dotProduct.vcxproj -> C:\Users\ronnr\source\repos\dotProduct\x64\Debug\dotProduct.exe
+C:\Users\ronnr\source\repos\Programming project - dot product\dotproduct\dotProduct\main.c(11,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ronnr\source\repos\Programming project - dot product\dotproduct\dotProduct\main.c(18,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ronnr\source\repos\Programming project - dot product\dotproduct\dotProduct\main.c(20,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ronnr\source\repos\Programming project - dot product\dotproduct\dotProduct\main.c(25,20): warning C4013: 'getDotProduct' undefined; assuming extern returning int
+C:\Users\ronnr\source\repos\Programming project - dot product\dotproduct\dotProduct\main.c(25,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  dotProduct.vcxproj -> C:\Users\ronnr\source\repos\Programming project - dot product\dotproduct\dotProduct\x64\Debug\dotProduct.exe
