@@ -1,0 +1,18 @@
+     1                                  section .data
+     2 00000000 484920424142592047-     msg db "HI BABY GIRL\n", 0
+     2 00000009 49524C5C6E00       
+     3                                  
+     4                                  section .text
+     5                                  extern printf
+     6                                  bits 64
+     7                                  default rel
+     8                                  
+     9                                  global hello
+    10                                  
+    11                                  hello:
+    12 00000000 4883EC08                    sub rsp, 8
+    13 00000004 48B9-                       mov rcx, msg
+    13 00000006 [0000000000000000] 
+    14 0000000E E8(00000000)                call printf
+    15 00000013 4883C408                    add rsp, 8
+    16 00000017 C3                          ret
