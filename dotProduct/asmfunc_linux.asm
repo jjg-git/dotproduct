@@ -26,9 +26,9 @@ default rel ; to handle address relocation
 global asmDotProduct
 asmDotProduct:
     ; initialization
-	push rcx   ; [RSP + (8 * 3)] address of float A[]
-	push rdx   ; [RSP + (8 * 2)] address of float B[]
-    push r8   ; [RSP + 8      ] size n
+	push rdi   ; [RSP + (8 * 3)] address of float A[]
+	push rsi   ; [RSP + (8 * 2)] address of float B[]
+    push rdx   ; [RSP + 8      ] size n
     sub rsp, 8 ; 16-byte alignment, segfault otherwise
 
     movss xmm0, [empty]
@@ -39,8 +39,8 @@ asmDotProduct:
     ; it's not calling any c function.
 
     ; for (i = 0; i < n; i++)
-    mov rsi, [rsp + 8] ; rdx is n
-    xor rdi, rdi ; rcx is i
+    mov rdx, [rsp + 8] ; rdx is n
+    xor rcx, rcx       ; rcx is i
 
     mov rax, [rsp + (8 * 3)]
     mov rbx, [rsp + (8 * 2)]
@@ -51,10 +51,10 @@ L1:
     mulss xmm1, xmm2
     addss xmm0, xmm1
 
-    inc rdi ; i++
+    inc rcx ; i++
     ;   i    n
     ;   ---  ---
-    cmp rdi, rsi
+    cmp rcx, rdx
     jl nextFloat ; (i < n)
     jmp finish
 
