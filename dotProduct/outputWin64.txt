@@ -1,0 +1,712 @@
+[Elapsed time: 3.349000]
+RUN 0: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.161000]
+RUN 0: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.459000]
+RUN 1: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.135000]
+RUN 1: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.629000]
+RUN 2: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.234000]
+RUN 2: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.535000]
+RUN 3: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.166000]
+RUN 3: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.672000]
+RUN 4: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.140000]
+RUN 4: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.455000]
+RUN 5: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.138000]
+RUN 5: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.459000]
+RUN 6: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.155000]
+RUN 6: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.437000]
+RUN 7: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.136000]
+RUN 7: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.461000]
+RUN 8: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.148000]
+RUN 8: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.453000]
+RUN 9: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.137000]
+RUN 9: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.442000]
+RUN 10: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.140000]
+RUN 10: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.569000]
+RUN 11: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.165000]
+RUN 11: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.546000]
+RUN 12: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.161000]
+RUN 12: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.538000]
+RUN 13: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.156000]
+RUN 13: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.455000]
+RUN 14: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.143000]
+RUN 14: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.453000]
+RUN 15: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.146000]
+RUN 15: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.466000]
+RUN 16: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.136000]
+RUN 16: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.453000]
+RUN 17: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.135000]
+RUN 17: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.531000]
+RUN 18: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.131000]
+RUN 18: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.449000]
+RUN 19: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.131000]
+RUN 19: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.460000]
+RUN 20: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.140000]
+RUN 20: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.461000]
+RUN 21: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.140000]
+RUN 21: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.472000]
+RUN 22: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.151000]
+RUN 22: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.520000]
+RUN 23: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.173000]
+RUN 23: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.465000]
+RUN 24: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.137000]
+RUN 24: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.464000]
+RUN 25: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.141000]
+RUN 25: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.478000]
+RUN 26: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.137000]
+RUN 26: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.471000]
+RUN 27: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.142000]
+RUN 27: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.449000]
+RUN 28: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.132000]
+RUN 28: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.460000]
+RUN 29: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.143000]
+RUN 29: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.453000]
+RUN 30: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.132000]
+RUN 30: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.445000]
+RUN 31: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.132000]
+RUN 31: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.467000]
+RUN 32: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.142000]
+RUN 32: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.464000]
+RUN 33: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.149000]
+RUN 33: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.482000]
+RUN 34: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.143000]
+RUN 34: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.480000]
+RUN 35: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.138000]
+RUN 35: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.481000]
+RUN 36: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.146000]
+RUN 36: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.473000]
+RUN 37: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.139000]
+RUN 37: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.473000]
+RUN 38: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.134000]
+RUN 38: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.464000]
+RUN 39: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.135000]
+RUN 39: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.463000]
+RUN 40: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.134000]
+RUN 40: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.447000]
+RUN 41: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.135000]
+RUN 41: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.475000]
+RUN 42: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.141000]
+RUN 42: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.489000]
+RUN 43: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.158000]
+RUN 43: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.459000]
+RUN 44: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.144000]
+RUN 44: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.570000]
+RUN 45: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.171000]
+RUN 45: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.571000]
+RUN 46: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.142000]
+RUN 46: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.468000]
+RUN 47: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.147000]
+RUN 47: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.521000]
+RUN 48: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.196000]
+RUN 48: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.546000]
+RUN 49: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.167000]
+RUN 49: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.562000]
+RUN 50: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.154000]
+RUN 50: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.463000]
+RUN 51: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.142000]
+RUN 51: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.457000]
+RUN 52: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.135000]
+RUN 52: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.475000]
+RUN 53: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.135000]
+RUN 53: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.435000]
+RUN 54: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.142000]
+RUN 54: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.455000]
+RUN 55: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.138000]
+RUN 55: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.490000]
+RUN 56: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.133000]
+RUN 56: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.503000]
+RUN 57: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.192000]
+RUN 57: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.593000]
+RUN 58: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.210000]
+RUN 58: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.480000]
+RUN 59: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.140000]
+RUN 59: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.485000]
+RUN 60: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.138000]
+RUN 60: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.485000]
+RUN 61: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.142000]
+RUN 61: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.473000]
+RUN 62: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.132000]
+RUN 62: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.480000]
+RUN 63: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.137000]
+RUN 63: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.465000]
+RUN 64: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.142000]
+RUN 64: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.480000]
+RUN 65: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.147000]
+RUN 65: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.481000]
+RUN 66: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.136000]
+RUN 66: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.482000]
+RUN 67: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.134000]
+RUN 67: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.481000]
+RUN 68: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.137000]
+RUN 68: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.491000]
+RUN 69: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.184000]
+RUN 69: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.578000]
+RUN 70: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.180000]
+RUN 70: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.478000]
+RUN 71: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.157000]
+RUN 71: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.520000]
+RUN 72: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.147000]
+RUN 72: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.490000]
+RUN 73: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.145000]
+RUN 73: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.458000]
+RUN 74: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.151000]
+RUN 74: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.455000]
+RUN 75: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.134000]
+RUN 75: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.450000]
+RUN 76: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.141000]
+RUN 76: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.454000]
+RUN 77: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.137000]
+RUN 77: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.449000]
+RUN 78: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.136000]
+RUN 78: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.447000]
+RUN 79: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.145000]
+RUN 79: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.471000]
+RUN 80: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.140000]
+RUN 80: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.467000]
+RUN 81: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.139000]
+RUN 81: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.530000]
+RUN 82: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.220000]
+RUN 82: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.466000]
+RUN 83: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.133000]
+RUN 83: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.446000]
+RUN 84: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.129000]
+RUN 84: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.449000]
+RUN 85: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.136000]
+RUN 85: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.459000]
+RUN 86: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.139000]
+RUN 86: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.451000]
+RUN 87: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.132000]
+RUN 87: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.447000]
+RUN 88: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.138000]
+RUN 88: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.493000]
+RUN 89: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.138000]
+RUN 89: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.461000]
+RUN 90: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.138000]
+RUN 90: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.476000]
+RUN 91: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.138000]
+RUN 91: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.447000]
+RUN 92: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.138000]
+RUN 92: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.450000]
+RUN 93: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.140000]
+RUN 93: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.472000]
+RUN 94: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.139000]
+RUN 94: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.471000]
+RUN 95: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.138000]
+RUN 95: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.484000]
+RUN 96: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.136000]
+RUN 96: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.475000]
+RUN 97: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.143000]
+RUN 97: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.487000]
+RUN 98: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.144000]
+RUN 98: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+[Elapsed time: 2.473000]
+RUN 99: [C] Dot product is 2147483648.000000
+[Elapsed time: 1.134000]
+RUN 99: [ASM] Dot product is 2147483648.000000
+BOTH ARE EQUAL
+----------
+------------------------------
+|    Elapsed time in all runs|
+------------------------------
+|Run #|          C|       x64|
+------------------------------
+|0    |   3.349000|  3.349000|
+|1    |   2.459000|  2.459000|
+|2    |   2.629000|  2.629000|
+|3    |   2.535000|  2.535000|
+|4    |   2.672000|  2.672000|
+|5    |   2.455000|  2.455000|
+|6    |   2.459000|  2.459000|
+|7    |   2.437000|  2.437000|
+|8    |   2.461000|  2.461000|
+|9    |   2.453000|  2.453000|
+|10   |   2.442000|  2.442000|
+|11   |   2.569000|  2.569000|
+|12   |   2.546000|  2.546000|
+|13   |   2.538000|  2.538000|
+|14   |   2.455000|  2.455000|
+|15   |   2.453000|  2.453000|
+|16   |   2.466000|  2.466000|
+|17   |   2.453000|  2.453000|
+|18   |   2.531000|  2.531000|
+|19   |   2.449000|  2.449000|
+|20   |   2.460000|  2.460000|
+|21   |   2.461000|  2.461000|
+|22   |   2.472000|  2.472000|
+|23   |   2.520000|  2.520000|
+|24   |   2.465000|  2.465000|
+|25   |   2.464000|  2.464000|
+|26   |   2.478000|  2.478000|
+|27   |   2.471000|  2.471000|
+|28   |   2.449000|  2.449000|
+|29   |   2.460000|  2.460000|
+|30   |   2.453000|  2.453000|
+|31   |   2.445000|  2.445000|
+|32   |   2.467000|  2.467000|
+|33   |   2.464000|  2.464000|
+|34   |   2.482000|  2.482000|
+|35   |   2.480000|  2.480000|
+|36   |   2.481000|  2.481000|
+|37   |   2.473000|  2.473000|
+|38   |   2.473000|  2.473000|
+|39   |   2.464000|  2.464000|
+|40   |   2.463000|  2.463000|
+|41   |   2.447000|  2.447000|
+|42   |   2.475000|  2.475000|
+|43   |   2.489000|  2.489000|
+|44   |   2.459000|  2.459000|
+|45   |   2.570000|  2.570000|
+|46   |   2.571000|  2.571000|
+|47   |   2.468000|  2.468000|
+|48   |   2.521000|  2.521000|
+|49   |   2.546000|  2.546000|
+|50   |   2.562000|  2.562000|
+|51   |   2.463000|  2.463000|
+|52   |   2.457000|  2.457000|
+|53   |   2.475000|  2.475000|
+|54   |   2.435000|  2.435000|
+|55   |   2.455000|  2.455000|
+|56   |   2.490000|  2.490000|
+|57   |   2.503000|  2.503000|
+|58   |   2.593000|  2.593000|
+|59   |   2.480000|  2.480000|
+|60   |   2.485000|  2.485000|
+|61   |   2.485000|  2.485000|
+|62   |   2.473000|  2.473000|
+|63   |   2.480000|  2.480000|
+|64   |   2.465000|  2.465000|
+|65   |   2.480000|  2.480000|
+|66   |   2.481000|  2.481000|
+|67   |   2.482000|  2.482000|
+|68   |   2.481000|  2.481000|
+|69   |   2.491000|  2.491000|
+|70   |   2.578000|  2.578000|
+|71   |   2.478000|  2.478000|
+|72   |   2.520000|  2.520000|
+|73   |   2.490000|  2.490000|
+|74   |   2.458000|  2.458000|
+|75   |   2.455000|  2.455000|
+|76   |   2.450000|  2.450000|
+|77   |   2.454000|  2.454000|
+|78   |   2.449000|  2.449000|
+|79   |   2.447000|  2.447000|
+|80   |   2.471000|  2.471000|
+|81   |   2.467000|  2.467000|
+|82   |   2.530000|  2.530000|
+|83   |   2.466000|  2.466000|
+|84   |   2.446000|  2.446000|
+|85   |   2.449000|  2.449000|
+|86   |   2.459000|  2.459000|
+|87   |   2.451000|  2.451000|
+|88   |   2.447000|  2.447000|
+|89   |   2.493000|  2.493000|
+|90   |   2.461000|  2.461000|
+|91   |   2.476000|  2.476000|
+|92   |   2.447000|  2.447000|
+|93   |   2.450000|  2.450000|
+|94   |   2.472000|  2.472000|
+|95   |   2.471000|  2.471000|
+|96   |   2.484000|  2.484000|
+|97   |   2.475000|  2.475000|
+|98   |   2.487000|  2.487000|
+|99   |   2.473000|  2.473000|
+------------------------------
+
+
+Average time elapsed of C implementation:
+        2.490720ms
+Average time elapsed of x64 implementation:
+        1.146100ms
