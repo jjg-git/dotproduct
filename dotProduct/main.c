@@ -192,7 +192,7 @@ void print_summary(double time_elapsed_c[], double time_elapsed_asm[], int size)
 
 void print_file(double time_elapsed_c[], double time_elapsed_asm[], int size)
 {
-    FILE* file = fopen("outputWin64.csv", "w");
+    FILE* file = fopen("output.csv", "w");
     fprintf(file, "%s,%s\n", "C", "x64");
     for (int i = 0; i < size; i++) {
         fprintf(file, "%lf,%lf\n", time_elapsed_c[i], time_elapsed_asm[i]);
