@@ -16,7 +16,6 @@
 ; * xmm0 <- float return values
 
 section .data
-msg db "Hello World",13,10,0
 empty db 0.0
 
 section .text

@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ronnr\\source\\repos\\Programming project - dot product\\dotproduct\\dotProduct\\",
+  "WorkspaceRootPath": "C:\\Users\\Dan\\Documents\\Visual Studio 2022\\dotproduct\\dotProduct\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86C73C80-F6B9-4581-85CE-F0C695D0B78A}|dotProduct.vcxproj|C:\\Users\\ronnr\\source\\repos\\Programming project - dot product\\dotproduct\\dotProduct\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{86C73C80-F6B9-4581-85CE-F0C695D0B78A}|dotProduct.vcxproj|C:\\Users\\Dan\\Documents\\Visual Studio 2022\\dotproduct\\dotProduct\\setup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86C73C80-F6B9-4581-85CE-F0C695D0B78A}|dotProduct.vcxproj|solutionrelative:setup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C73C80-F6B9-4581-85CE-F0C695D0B78A}|dotProduct.vcxproj|C:\\Users\\Dan\\Documents\\Visual Studio 2022\\dotproduct\\dotProduct\\asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{86C73C80-F6B9-4581-85CE-F0C695D0B78A}|dotProduct.vcxproj|solutionrelative:asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C73C80-F6B9-4581-85CE-F0C695D0B78A}|dotProduct.vcxproj|C:\\Users\\Dan\\Documents\\Visual Studio 2022\\dotproduct\\dotProduct\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{86C73C80-F6B9-4581-85CE-F0C695D0B78A}|dotProduct.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86C73C80-F6B9-4581-85CE-F0C695D0B78A}|dotProduct.vcxproj|C:\\Users\\ronnr\\source\\repos\\Programming project - dot product\\dotproduct\\dotProduct\\dotProduct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{86C73C80-F6B9-4581-85CE-F0C695D0B78A}|dotProduct.vcxproj|C:\\Users\\Dan\\Documents\\Visual Studio 2022\\dotproduct\\dotProduct\\dotProduct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{86C73C80-F6B9-4581-85CE-F0C695D0B78A}|dotProduct.vcxproj|solutionrelative:dotProduct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86C73C80-F6B9-4581-85CE-F0C695D0B78A}|dotProduct.vcxproj|C:\\Users\\ronnr\\source\\repos\\Programming project - dot product\\dotproduct\\dotProduct\\asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{86C73C80-F6B9-4581-85CE-F0C695D0B78A}|dotProduct.vcxproj|solutionrelative:asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +26,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dotProduct.c",
-              "DocumentMoniker": "C:\\Users\\ronnr\\source\\repos\\Programming project - dot product\\dotproduct\\dotProduct\\dotProduct.c",
-              "RelativeDocumentMoniker": "dotProduct.c",
-              "ToolTip": "C:\\Users\\ronnr\\source\\repos\\Programming project - dot product\\dotproduct\\dotProduct\\dotProduct.c",
-              "RelativeToolTip": "dotProduct.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-26T07:10:00.056Z",
+              "DocumentIndex": 0,
+              "Title": "setup.h",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\Visual Studio 2022\\dotproduct\\dotProduct\\setup.h",
+              "RelativeDocumentMoniker": "setup.h",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\Visual Studio 2022\\dotproduct\\dotProduct\\setup.h",
+              "RelativeToolTip": "setup.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T12:39:17.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\ronnr\\source\\repos\\Programming project - dot product\\dotproduct\\dotProduct\\main.c",
-              "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "C:\\Users\\ronnr\\source\\repos\\Programming project - dot product\\dotproduct\\dotProduct\\main.c",
-              "RelativeToolTip": "main.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "DocumentIndex": 3,
+              "Title": "dotProduct.c",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\Visual Studio 2022\\dotproduct\\dotProduct\\dotProduct.c",
+              "RelativeDocumentMoniker": "dotProduct.c",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\Visual Studio 2022\\dotproduct\\dotProduct\\dotProduct.c",
+              "RelativeToolTip": "dotProduct.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-26T04:54:44.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T07:10:00.056Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\Visual Studio 2022\\dotproduct\\dotProduct\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\Visual Studio 2022\\dotproduct\\dotProduct\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAFYAAAAAAAAAAAD4v3IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-26T04:54:44.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "asmfunc.asm",
-              "DocumentMoniker": "C:\\Users\\ronnr\\source\\repos\\Programming project - dot product\\dotproduct\\dotProduct\\asmfunc.asm",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\Visual Studio 2022\\dotproduct\\dotProduct\\asmfunc.asm",
               "RelativeDocumentMoniker": "asmfunc.asm",
-              "ToolTip": "C:\\Users\\ronnr\\source\\repos\\Programming project - dot product\\dotproduct\\dotProduct\\asmfunc.asm",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\Visual Studio 2022\\dotproduct\\dotProduct\\asmfunc.asm",
               "RelativeToolTip": "asmfunc.asm",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-03-26T04:56:16.739Z"
             }

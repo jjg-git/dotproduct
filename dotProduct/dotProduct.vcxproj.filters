@@ -27,4 +27,12 @@
       <Filter>Source Files</Filter>
     </CustomBuild>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dotProduct.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="setup.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>

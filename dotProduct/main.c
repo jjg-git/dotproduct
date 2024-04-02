@@ -22,8 +22,25 @@ int main()
 
     // float vect_A[n] = { 0 };
     // float vect_B[n] = { 0 };
-    float* vect_A = (float*)calloc(n, sizeof(float));
-    float* vect_B = (float*)calloc(n, sizeof(float));
+    //float* vect_A = (float*)calloc(n, sizeof(float));
+    //float* vect_B = (float*)calloc(n, sizeof(float));
+    float* vect_A = (float*)malloc(n * sizeof(float));
+    float* vect_B = (float*)malloc(n * sizeof(float));
+
+    if (vect_A == NULL && vect_B == NULL) {
+        printf("ERROR! vect_A and vect_B are not initialized!\n");
+        exit(1);
+    }
+
+    if (vect_A == NULL) {
+        printf("ERROR! vect_A is not initialized!\n");
+        exit(1);
+    }
+
+    if (vect_B == NULL) {
+        printf("ERROR! vect_B is not initialized!\n");
+        exit(1); 
+    }
 
     clock_t start_time_c;
     clock_t end_time_c;
@@ -56,8 +73,11 @@ int main()
 #endif
     random_vectors(vect_A, vect_B, n);
 
+    printf("|%5s|%18s|%18s|%5s|%17s|%17s|\n", "Run #", "sdot (C)", "sdot (x86_64)", "Same?", "Exe. Time (C)", "Exe. Time(x86_64)");
+    printf("---------------------------------------------------------------------------------------\n");
+
     for (int i = 0; i < RUNS; i++) {
-        printf("RUN %d...\n", i + 1);
+        printf("|%5d|", i + 1);
 
         // simply show the vectors
         // view_vectors(vect_A, vect_B, n);
@@ -77,7 +97,7 @@ int main()
             fprintf(vector_file, "-------------\n");
         }
 #endif
-
+        
         // Benchmarking the C kernel
 
         start_time_c = clock();
@@ -85,10 +105,10 @@ int main()
         end_time_c = clock();
         time_elapsed_c[i] = (double)(end_time_c - start_time_c) / CLOCKS_PER_SEC;
 
-        printf("[Elapsed time: %lf]\n", time_elapsed_c[i]);
-        printf("[C] Dot product is %f \n", result_c);
+        //printf("[Elapsed time: %lf]\n", time_elapsed_c[i]);
+        //printf("[C] Dot product is %f \n", result_c);
 
-        printf("\n");
+        //printf("\n");
         // Benchmarking the x86_64 kernel
 
         start_time_asm = clock();
@@ -96,15 +116,21 @@ int main()
         end_time_asm = clock();
         time_elapsed_asm[i] = (double)(end_time_asm - start_time_asm) / CLOCKS_PER_SEC;
 
-        printf("[Elapsed time: %lf]\n", time_elapsed_asm[i]);
-        printf("[ASM] Dot product is %f \n", result_asm);
+        //printf("[Elapsed time: %lf]\n", time_elapsed_asm[i]);
+        //printf("[ASM] Dot product is %f \n", result_asm);
 
+        // Printing stuff
+        // %17s|%17s|%5s|%17s|%17s|
+        printf("%8.9lf|", result_c);
+        printf("%8.9lf|", result_asm);
         if (result_c == result_asm) {
-            printf("Both outputs are equal.\n");
+            printf("%5s|", "Yes");
         } else {
-            printf("Both outputs are not equal.\n");
+            printf("%s|", "No");
         }
-        printf("-----------------------------\n");
+        printf("%17lf|", time_elapsed_c[i]);
+        printf("%17lf|", time_elapsed_asm[i]);
+        printf("\n");
     }
 #if VECTOR_FILE == 1
     if (!has_vector_file) {
@@ -112,11 +138,12 @@ int main()
     }
 #endif
 
-    print_summary(time_elapsed_c, time_elapsed_asm, RUNS);
+    //print_summary(time_elapsed_c, time_elapsed_asm, RUNS);
 
     double average_et_c = average_double(time_elapsed_c, RUNS);
     double average_et_asm = average_double(time_elapsed_asm, RUNS);
-
+    printf("\n");
+    printf("N = %lu\n", n);
     printf("\n");
     printf("Average time elapsed of C implementation:\n\t%lfms\n",
         average_et_c);
@@ -159,9 +186,9 @@ void simple_init(float vect_A[], float vect_B[], long size)
 void random_vectors(float vect_A[], float vect_B[], long int size)
 {
     for (long int i = 0; i < size; i++) {
-        vect_A[i] = ((float)rand() / (float)(RAND_MAX)) * 10.0;
+        vect_A[i] = ((float)rand() / (float)(RAND_MAX)) * 10.0f;
         // printf("vect_A[%d] = %f\n", i, vect_A[i]);
-        vect_B[i] = ((float)rand() / (float)(RAND_MAX)) * 10.0;
+        vect_B[i] = ((float)rand() / (float)(RAND_MAX)) * 10.0f;
         // printf("vect_B[%d] = %f\n", i, vect_B[i]);
     }
 }
